@@ -6,7 +6,7 @@
 
 <p align="center">
   🎓 <i>Mechanical Engineering graduate turned Full‑Stack Developer</i><br>
-  💻 Building with <b>Vue</b>, <b>Blade</b>, <b>Node.js</b>, and <b>MongoDB</b><br>
+  💻 Building with <b>React</b>, <b>Blade</b>, <b> Flutter-Dart </b>, <b>Node.js</b>, and <b>Laravel-Livewire </b><br>
   🚀 Currently working on <b>Foodfast</b> 🍔 and expanding my portfolio<br>
   🌱 Passionate about solving problems with clean, scalable code<br>
   📫 Reach me via <a href="https://eliomamarcus.vercel.app">eliomamarcus.vercel.app</a>
