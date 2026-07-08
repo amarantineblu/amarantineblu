@@ -1,49 +1,47 @@
-<h1 align="center">
-  <span style="color:#ff5733; font-family:Georgia; font-size:40px;">
-    👋 Hi, I'm Marcus Lebanon Elioma
-  </span>
-</h1>
-
-<p align="center">
-  🎓 <i>Mechanical Engineering graduate turned Full‑Stack Developer</i><br>
-  💻 Building with <b>React</b>, <b>Blade</b>, <b> Flutter-Dart </b>, <b>Node.js</b>, and <b>Laravel-Livewire </b><br>
-  🚀 Currently working on <b>Foodfast</b> 🍔 and expanding my portfolio<br>
-  🌱 Passionate about solving problems with clean, scalable code<br>
-  📫 Reach me via <a href="https://eliomamarcus.vercel.app">eliomamarcus.vercel.app</a>
-</p>
+# 👋 Hi, I'm Marcus Lebanon Elioma
+### Accessibility Advocate | Web Developer | Tech Writer
 
 ---
 
-<h2 align="center">🔧 Tech Stack</h2>
-
-<ul>
-  <li><b>Frontend:</b> Vue, React, Blade, HTML, CSS, JavaScript</li>
-  <li><b>Backend:</b> Node.js, Express, PHP, Laravel</li>
-  <li><b>Mobile:</b> Flutter, Dart, React Native</li>
-  <li><b>Database:</b> MySQL</li>
-  <li><b>Others:</b> MS Office Suite, SOLIDWORKS</li>
-  <li><b>Tools:</b> Git, GitHub, VS Code</li>
-</ul>
+## 🌐 Connect with Me
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/yourhandle)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://linkedin.com/in/yourhandle)
+[![YouTube](https://img.shields.io/badge/YouTube-FF4500?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtube.com/yourchannel)
+[![Twitch](https://img.shields.io/badge/Twitch-FF7F50?style=for-the-badge&logo=Twitch&logoColor=white)](https://twitch.tv/yourhandle)
 
 ---
 
-<h2 align="center">📌 Featured Projects</h2>
+## 📝 My Writing
+I share thoughts on accessibility, web development, and tech culture:
 
-- 🍔 <b>Foodfast</b> – A food delivery platform with real‑time order tracking  
-- 📊 <b>Portfolio Website</b> – Showcasing my work and skills  
-
----
-
-<h2 align="center">📈 GitHub Stats</h2>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=amarantineblu&show_icons=true&theme=radical" alt="GitHub stats">
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amarantineblu&layout=compact&theme=radical" alt="Top Languages">
-</p>
+- ✍️ [DEV.to](https://dev.to/yourhandle)
+- 📚 Blog: [yourblog.com](https://yourblog.com)
 
 ---
 
-<p align="center">
-  ✨ <i>Always learning, always building.</i>
-</p>
+## 🎓 Study Resources
+- [WCAG 101](https://yourlink.com)
+- [A11y Monsters](https://yourlink.com)
+- [tota11y.dev](https://yourlink.com)
+
+---
+
+## 🏆 Achievements
+- Accessibility Champion
+- Open Source Contributor
+- Tech Writer on DEV
+
+---
+
+## ⚡ Tech Stack
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=amarantineblu&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amarantineblu&layout=compact&theme=tokyonight)
